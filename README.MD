@@ -82,7 +82,7 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
         DevLinks
     </a>
 </p>
-<br/>
+
 <p>
 
 ---
