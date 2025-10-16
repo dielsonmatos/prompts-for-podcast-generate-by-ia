@@ -64,7 +64,7 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
 - 🤖 2. Use os prompts de roteiro gerados pelo chatgpt no  `ElevenLabs`
 - 🤖 3. Use os prompts de artes no `midjourney`
 
-## 👨‍💻 Expert
+## 👨‍💻 Dev
 
 <p>
     <a 
@@ -81,9 +81,8 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
         href="https://dielsonmatos.github.io/projeto">
         DevLinks
     </a>
-    &nbsp;|&nbsp;</p>
 </p>
-<br/><br/>
+<br/>
 <p>
 
 ---
